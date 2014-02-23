@@ -1,0 +1,9 @@
+/* LVHA */
+a:link {color: #6699FF; text-decoration: none}
+a:visited {color: #6699CC }
+a:hover {color:#7A3DB8}
+header a:hover{color: #6699CC}
+
+nav{
+	background-color: #000000;
+}
