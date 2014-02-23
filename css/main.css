@@ -8,6 +8,15 @@ nav{
 	background-color: #000000;
 }
 
-photo-left{
-	text-align: left;
+div.event_left_col{
+	margin-top: 20px;
+	margin-bottom: 50px;
+}
+
+div.photo_200{
+	padding-left: 50px;
+}
+
+div.event_right_col{
+	margin-top: 40px;
 }
