@@ -7,7 +7,7 @@ header a:hover{color: #6699CC}
 nav{
 	background-color: #000000;
 }
-
+ /**--- event page **/
 div.event_left_col{
 	margin-top: 20px;
 	margin-bottom: 50px;
@@ -21,6 +21,7 @@ div.event_right_col{
 	margin-top: 40px;
 }
 
+/**-- solar page **/
 div.solar_left_col h1{
 	margin-top: 20px;
 	margin-bottom: 50px;
@@ -30,5 +31,22 @@ div.solar_left_col h1{
 
 div.solar_right_col{
 	margin-top: 40px;
+}
 
+/**-- hire us page **/
+div.hire_left_col {
+	margin-top: 20px;
+	margin-bottom:10px;
+}
+
+div.photo_100{
+	padding-left: 25px;
+}
+
+div.hire_middle_col{
+	margin-top: 40px;
+}
+
+div.hire_right_col{
+	margin-top: 40px;
 }
