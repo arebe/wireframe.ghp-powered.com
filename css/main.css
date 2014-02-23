@@ -50,3 +50,22 @@ div.hire_middle_col{
 div.hire_right_col{
 	margin-top: 40px;
 }
+
+/**-- contact us page **/
+div.contact h2 {
+	text-align: left;
+	color: grey;
+}
+
+div.contact_left_col {
+	margin-top: 20px;
+	margin-bottom:10px;
+}
+
+div.contact_middle_col{
+	margin-top: 40px;
+}
+
+div.contact_right_col{
+	margin-top: 40px;
+}
